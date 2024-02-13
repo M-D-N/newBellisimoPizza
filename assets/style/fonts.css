@@ -1,0 +1,42 @@
+/* Inter */
+@font-face {
+    font-family: "InterR";
+    src: url("../fonts/Inter/Inter-Regular.ttf");
+}
+@font-face {
+    font-family: "InterT";
+    src: url("../fonts/Inter/Inter-Thin.ttf");
+}
+@font-face {
+    font-family: "InterB";
+    src: url("../fonts/Inter/Inter-Bold.ttf");
+}
+@font-face {
+    font-family: "InterBL";
+    src: url("../fonts/Inter/Inter-Black.ttf");
+}
+@font-face {
+    font-family: "InterL";
+    src: url("../fonts/Inter/Inter-Light.ttf");
+}
+@font-face {
+    font-family: "InterM";
+    src: url("../fonts/Inter/Inter-Medium.ttf");
+}
+/* AvertaCY */
+@font-face {
+    font-family: "AvertaR";
+    src: url("../fonts/Averta/Averta\ Cyrillic\ Regular.otf");
+}
+@font-face {
+    font-family: "AvertaB";
+    src: url("../fonts/Averta/Averta\ Cyrillic\ Bold.otf");
+}
+@font-face {
+    font-family: "AvertaL";
+    src: url("../fonts/Averta/Averta\ Cyrillic\ Light.otf");
+}
+@font-face {
+    font-family: "AvertaBL";
+    src: url("../fonts/Averta/Averta\ Cyrillic\ Black.otf");
+}
